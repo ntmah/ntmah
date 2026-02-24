@@ -20,11 +20,11 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+https://github.com/ntmah/Diagnosis-of-non-communicable-diseases-final
 
 
 ---
 
 ### 🌐 Connect with me
-- 💼 LinkedIn: [your-link](https://www.linkedin.com/in/ng%C3%B4-h%C3%A0-913218134/)
+- 💼 LinkedIn: [ntmah](https://www.linkedin.com/in/ng%C3%B4-h%C3%A0-913218134/)
 - 📫 Email: ngothimyha271@gmail.com
