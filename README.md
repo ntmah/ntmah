@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">🤖 A little AI Engineer on a big learning journey</h3>
 
-<!--
-**ntmah/ntmah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
+- 🌱 Currently learning **Machine Learning & Deep Learning**
+- 🤖 Building small AI projects every day
+- 📊 Interested in **Data, Finance & Intelligent Systems**
+- 💬 Ask me about **Python, ML basics, or model training**
+- ⚡ Fun fact: I talk to my models like they understand me 😆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,opencv,git,docker" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Connect with me
+- 💼 LinkedIn: your-link
+- 📫 Email: yourmail@gmail.com
