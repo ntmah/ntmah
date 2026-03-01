@@ -26,5 +26,5 @@ https://github.com/ntmah/Diagnosis-of-non-communicable-diseases-final
 ---
 
 ### 🌐 Connect with me
-- 💼 LinkedIn: [ntmah](https://www.linkedin.com/in/ng%C3%B4-h%C3%A0-913218134/)
+- 💼 LinkedIn: [ntmah](https://www.linkedin.com/in/ntmah/)
 - 📫 Email: ngothimyha271@gmail.com
